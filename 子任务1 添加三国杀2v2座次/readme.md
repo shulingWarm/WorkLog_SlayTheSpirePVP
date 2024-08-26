@@ -16,4 +16,4 @@
 
 # 结果
 - 目前已经支持自定义为三国杀2v2形式的坐次顺序
-- 演示视频: 
+- 演示视频: https://www.bilibili.com/video/BV1KtsJeXEhA
