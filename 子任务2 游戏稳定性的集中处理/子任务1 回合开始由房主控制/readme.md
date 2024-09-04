@@ -6,5 +6,7 @@
 - [DONE] 添加定义SeatManager,用于管理一个座位中的玩家的信息
 	- 动机: 做这个东西是因为一个座位上可能有多个玩家，为了兼容另外一种同一队的玩家可以同时出牌的模式
 - [DONE] 将TurnManager中更换轮次换成由SeatManager来处理
-- [DOING] 在SeatManager中实现发送轮次启动的信息，添加一个相应的通信Event
+- [DONE] 在SeatManager中实现发送轮次启动的信息，添加一个相应的通信Event
+- [DONE] 当前座位的玩家都出牌结束时，通知下一个座位的玩家开始出牌。
+- [TO-DO] 测试目前的出牌顺序能不能正常运转。
  
