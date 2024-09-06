@@ -8,5 +8,7 @@
 - [DONE] 将TurnManager中更换轮次换成由SeatManager来处理
 - [DONE] 在SeatManager中实现发送轮次启动的信息，添加一个相应的通信Event
 - [DONE] 当前座位的玩家都出牌结束时，通知下一个座位的玩家开始出牌。
-- [TO-DO] 测试目前的出牌顺序能不能正常运转。
+- [DONE] 测试中发现一个bug, 2v2中有玩家死亡时，无法正常跳过它的回合。
+	- PR: https://github.com/shulingWarm/PVP-in-the-spire/commit/06b0f11b96732a1cf6d84b3e678325808974fdcd
+- [TO-DO] 在虚拟机里面用真实的服务器来测试。
  
