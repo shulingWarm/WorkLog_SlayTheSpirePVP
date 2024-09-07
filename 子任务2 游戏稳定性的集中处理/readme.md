@@ -9,6 +9,8 @@
     - 参考: https://github.com/shulingWarm/PVP-in-the-spire/commit/818b76dec320f8527375af637b778fa9d2bfa56c
 - [DONE] 解决战斗开始时血量为零的bug
     - 参考: https://github.com/shulingWarm/PVP-in-the-spire/commit/ec640ccfe30759ee0be4b27294f8e7a1f1af8b87
-- [DOING] 改成回合开始条件完全由房主控制
+- [DONE] 子任务1 改成回合开始条件完全由房主控制
     - 动机: 由于目前的pvp总是出现双方玩家回合都无法开始的情况，改成回合开始条件完全由房主控制可以增加回合开始的稳定性。
     
+# 结果
+- 目前关于回合控制的内容已经稳定，可以用steam联机稳定进行一局游戏。
