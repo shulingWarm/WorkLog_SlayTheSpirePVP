@@ -3,7 +3,18 @@
 - [DONE] 添加2v2中类似于三国杀的座次顺序
     - 效果演示: https://www.bilibili.com/video/BV1KtsJeXEhA
 - [DONE] BUG处理: 有时会提前摸下回合的牌
-    - PR: https://github.com/shulingWarm/PVP-in-the-spire/commit/adf637df151caab0a2084ab0a69a436d6b7ecd9d
+    - Commit: https://github.com/shulingWarm/PVP-in-the-spire/commit/adf637df151caab0a2084ab0a69a436d6b7ecd9d
 - [DOING] 解决steam远程联机时影响游戏稳定性的bug
     - [DONE] 解决steam联机时非房主玩家先进入时，无法正常收到房主玩家的血量信息。
     - [DOING] 将玩家回合开始的逻辑改成完全由房主控制。
+
+# 2024/9/8
+
+- [DONE] 解决Steam远程联机时的稳定性问题。
+    - 结果: 经过Steam远程联机测试，没有再出现回合卡死的情况。
+- [DONE] 游戏聊天界面的优化
+    - [DONE] 在聊天界面中添加发送者名字。
+    - [DONE] 添加[tab]键作为打开/关闭聊天界面的快捷键
+    - [TO-DO] 在按钮上添加快捷键提示
+- [TO-DO] 在游戏中添加[时间扭曲]这张牌，并针对多人情况下做适配
+- [TO-DO] 将游戏扩展为3v3模式
