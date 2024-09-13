@@ -9,4 +9,6 @@
 	- 结果: 目前每次更新全知头骨的受伤数时，先判断角色目前的血量是否可以承受这个伤害。
 - [DONE] 重新实现打防之光
 	- 结果: 如果生命值不够14的时候，禁止选择升级牌的选项。
+- [DONE] 临时bug解决: 解决壁垒结算相关的bug.
+	- Commit: https://github.com/shulingWarm/PVP-in-the-spire/commit/7c89e0ad105a96a09b865c68137d9973520f8bdb
 - [TO-DO] 重新实现死灵之书事件 
