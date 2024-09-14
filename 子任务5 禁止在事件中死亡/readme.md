@@ -11,4 +11,8 @@
 	- 结果: 如果生命值不够14的时候，禁止选择升级牌的选项。
 - [DONE] 临时bug解决: 解决壁垒结算相关的bug.
 	- Commit: https://github.com/shulingWarm/PVP-in-the-spire/commit/7c89e0ad105a96a09b865c68137d9973520f8bdb
+- [DONE] 临时bug解决: 解决使用腾跃后玩家回合卡死的bug
+	- Commit: https://github.com/shulingWarm/PVP-in-the-spire/commit/639107f281e7e3a667abf6e46ce46bcd8554287d
+- [DONE] 临时bug解决: 解决Steam联机时无法使用滚轮的bug
+	- Commit: https://github.com/shulingWarm/PVP-in-the-spire/commit/b2edb557eaa7619d94e40a2d21ef9759cbd89b52
 - [TO-DO] 重新实现死灵之书事件 
