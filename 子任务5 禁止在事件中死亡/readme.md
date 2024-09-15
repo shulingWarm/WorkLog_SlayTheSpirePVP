@@ -15,4 +15,8 @@
 	- Commit: https://github.com/shulingWarm/PVP-in-the-spire/commit/639107f281e7e3a667abf6e46ce46bcd8554287d
 - [DONE] 临时bug解决: 解决Steam联机时无法使用滚轮的bug
 	- Commit: https://github.com/shulingWarm/PVP-in-the-spire/commit/b2edb557eaa7619d94e40a2d21ef9759cbd89b52
+- [DONE] 临时bug解决: 添加2v2模式下的斩杀同步，这样可以给各种血量不同步的问题兜底
+	- Commit: https://github.com/shulingWarm/PVP-in-the-spire/commit/f9f87e629c122a845882de6cca90d7ac0877f7f3
+- [TO-DO] 回合内反伤死亡造成的bug
+	- 背景: 如果玩家回合内被荆棘反伤死亡，下家玩家无法正常开始回合，需要解决这个bug.
 - [TO-DO] 重新实现死灵之书事件 
