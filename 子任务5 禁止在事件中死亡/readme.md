@@ -17,6 +17,7 @@
 	- Commit: https://github.com/shulingWarm/PVP-in-the-spire/commit/b2edb557eaa7619d94e40a2d21ef9759cbd89b52
 - [DONE] 临时bug解决: 添加2v2模式下的斩杀同步，这样可以给各种血量不同步的问题兜底
 	- Commit: https://github.com/shulingWarm/PVP-in-the-spire/commit/f9f87e629c122a845882de6cca90d7ac0877f7f3
-- [TO-DO] 回合内反伤死亡造成的bug
+- [DONE] 回合内反伤死亡造成的bug
 	- 背景: 如果玩家回合内被荆棘反伤死亡，下家玩家无法正常开始回合，需要解决这个bug.
+	- Commit: https://github.com/shulingWarm/PVP-in-the-spire/commit/6f194da211ac88fe0bf79802fbeea92cea0e5c7c
 - [TO-DO] 重新实现死灵之书事件 
