@@ -20,4 +20,9 @@
 - [DONE] 回合内反伤死亡造成的bug
 	- 背景: 如果玩家回合内被荆棘反伤死亡，下家玩家无法正常开始回合，需要解决这个bug.
 	- Commit: https://github.com/shulingWarm/PVP-in-the-spire/commit/6f194da211ac88fe0bf79802fbeea92cea0e5c7c
-- [TO-DO] 重新实现死灵之书事件 
+- [DONE] 重新实现死灵之书事件
+	- Commit: https://github.com/shulingWarm/PVP-in-the-spire/commit/df0ef5fa4d11b28f5954fd91b6f9611849da20d9
+
+# 结果
+- 目前已经实现[全知头骨], [死灵书], [闪耀之光]这三个事件禁止死亡的效果，其它的事件还需要额外实现。
+- 由于这并不是紧急的事项，其余事件的禁止死亡处理等后续再说。
