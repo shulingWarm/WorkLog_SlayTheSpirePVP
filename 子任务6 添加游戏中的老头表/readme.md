@@ -6,9 +6,11 @@
 - [DONE] 实现老头表的管理器
 	- 背景: 老头表的特点在于需要频繁通信，由于每次出牌都需要计数，因此需要特别处理一下。
 	- 结果: 添加了老头表的buff,但并没有添加老头表的卡牌。
-- [DOING] 实现老头表的卡牌
+- [DONE] 实现老头表的卡牌
 	- 背景: 目前只需要实现一个卡牌来施加老头表的buff.
 	- 状态:
 		- [DONE] 实现老头表的卡面描述
-		- [DOING] 实现一个新的event,用于对所有的CommunicatePower做编码和解码
-		- [TO-DO] 使用老头表这张牌时，调用施加power的通信事件。 
+		- [DONE] 实现一个新的event,用于对所有的CommunicatePower做编码和解码
+		- [DONE] 使用老头表这张牌时，调用施加power的通信事件。 
+	- Commit: https://github.com/shulingWarm/PVP-in-the-spire/commit/8414c67d050a8295597da04ec84fa2413416a04f
+- [DOING] 测试老头表的实际使用效果
