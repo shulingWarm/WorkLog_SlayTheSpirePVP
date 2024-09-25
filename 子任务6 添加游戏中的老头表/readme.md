@@ -15,4 +15,8 @@
 	- Commit: https://github.com/shulingWarm/PVP-in-the-spire/commit/8414c67d050a8295597da04ec84fa2413416a04f
 - [DONE] 测试老头表的实际使用效果
 	- 背景: 经过测试，老头表现在已经可以正常使用了
-- [TO-DO] 录制新版的老头表的效果视频。
+- [DONE] 录制新版的老头表的效果视频。
+	- 结果: https://www.bilibili.com/video/BV1Lzxge7EfG
+
+# 结果
+- 已经添加了老头表，效果与狗圈类似，单个回合内出到8张牌才会触发。
