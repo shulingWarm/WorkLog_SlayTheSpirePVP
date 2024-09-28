@@ -4,9 +4,8 @@
 
 # 工作流程
 - [DONE] 修改狗圈: 如果回合内打出超过6张牌，下回合不加费。
-- [DOING] 修改添水。
-	- Stage:
-		- [DONE] 添加新的添水class
-		- [TO-DO] 给新的添加添加语言包
-- [TO-DO] 给新的狗圈和添水效果录视频。
+- [DONE] 修改添水。
+	- Commit: https://github.com/shulingWarm/PVP-in-the-spire/commit/64f851f2d0110bef896ccfdd3cf2b6e1c38f5bed
 - [TO-DO] 修改灵体外质。
+	- 背景: 修改成当受到攻击时，令伤害来源获得5金币。
+- [TO-DO] 给新的狗圈和添水和绿帽录视频。
