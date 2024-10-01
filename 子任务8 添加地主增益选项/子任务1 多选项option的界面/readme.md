@@ -3,4 +3,7 @@
 - 之前并没有相关的UI逻辑，因此需要单独实现这个UI素材
 
 # 工作记录
-- [DOING] 研究怎样在界面中添加用于多选的ToggleButton
+- [DONE] 研究怎样在界面中添加用于多选的ToggleButton
+	- 结论: 关键就是它怎样使用它原生自带的ToggleButton
+- [DOING] 在游戏里面测试单独使用ToggleButton的效果
+	- 目的: 这是为了指导后面使用ToggleButton的效果，方便决定后续的修改方向。
