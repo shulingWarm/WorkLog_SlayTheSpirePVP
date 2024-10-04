@@ -17,4 +17,8 @@
 - [DONE] 添加option的文本部分
 	- 背景: option文本部分用于对选项做描述。
 	- 结果: 目前的ToggleOption支持指定文本内容。
-- [TO-DO] 将ToggleOption添加到Panel中，观察是否可以随着滚动条正常移动位置。
+- [DONE] 将ToggleOption添加到Panel中，观察是否可以随着滚动条正常移动位置。
+	- 结果: ToggleOption已经正常添加到panel中了，现在可以正常移动位置。
+
+# 结果
+- 目前已经完成了制作Toggle所需的UI界面，剩下的就写游戏逻辑就可以了。
