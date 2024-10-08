@@ -11,4 +11,7 @@
 	- [DONE] 测试更新Toggle选项时，在其他玩家的界面中也会同步更新。
 	- [DONE] 测试地主总是先手的效果
 	- Commit: https://github.com/shulingWarm/PVP-in-the-spire/commit/337ef4e91af7293be764dd9d60e6e5b809d79487
-- [TO-DO] 添加地主没有先手处罚的选项
+- [DONE] 添加地主没有先手处罚的选项
+	- Commit: https://github.com/shulingWarm/PVP-in-the-spire/commit/61b5fe8cfacb48389d8dda0376c522571a3d88ef
+- [TO-DO] 地主开局固定多一费。
+- [TO-DO] 地主血量翻倍。
