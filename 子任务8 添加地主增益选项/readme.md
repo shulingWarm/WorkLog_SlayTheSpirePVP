@@ -13,5 +13,10 @@
 	- Commit: https://github.com/shulingWarm/PVP-in-the-spire/commit/337ef4e91af7293be764dd9d60e6e5b809d79487
 - [DONE] 添加地主没有先手处罚的选项
 	- Commit: https://github.com/shulingWarm/PVP-in-the-spire/commit/61b5fe8cfacb48389d8dda0376c522571a3d88ef
-- [TO-DO] 地主开局固定多一费。
-- [TO-DO] 地主血量翻倍。
+- [DONE] 地主开局固定多一费。
+	- Commit: https://github.com/shulingWarm/PVP-in-the-spire/commit/9cd55a3b15ca61446d92e6eae093dd386820c26c
+- [DONE] 地主多获得一条尾巴
+	- Commit: https://github.com/shulingWarm/PVP-in-the-spire/commit/5bb999ed61a31a7b4432018709ee2059e12915bf
+- [TO-DO] 修改ToggleOption的点击范围
+	- 背景: 目前的ToggleOption的点击范围是向右扩展的，为了与实际的使用保持一致，这里改成向左扩展。
+- [TO-DO] 录视频说明目前的地主增益选项
