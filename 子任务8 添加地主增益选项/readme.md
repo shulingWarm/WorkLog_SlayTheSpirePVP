@@ -19,5 +19,10 @@
 	- Commit: https://github.com/shulingWarm/PVP-in-the-spire/commit/5bb999ed61a31a7b4432018709ee2059e12915bf
 - [DONE] 录视频说明目前的地主增益选项
 	- 结果: https://www.bilibili.com/video/BV1rV23YdENg
-- [TO-DO] 修改ToggleOption的点击范围
+- [DONE] 修改ToggleOption的点击范围
 	- 背景: 目前的ToggleOption的点击范围是向右扩展的，为了与实际的使用保持一致，这里改成向左扩展。
+	- Commit: https://github.com/shulingWarm/PVP-in-the-spire/commit/85198a690a602a61a148663f4de9d487c89a03c8
+
+# 结果
+- 目前已经可以在config页面配置斗地主情况下的增益选项了
+- Toggle按钮的点击范围是按钮本身以及左边的一段空白区域。
