@@ -4,3 +4,5 @@
 # 工作过程
 - [DONE] 解决猎人死后她施加的毒变得无效的bug.
 	- Commit: https://github.com/shulingWarm/PVP-in-the-spire/commit/893568d1f7507e0db63aeb8d20834d93a00fd558
+- [DOING] 解决失败的一方先死的无法结束战斗。
+	- 背景: 这是一个可以稳定复现的bug,2v2的情况下，败方先死的一个无法结束战斗，会卡在那里。
