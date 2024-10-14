@@ -55,3 +55,14 @@
         - [DONE] 在config页面中调用地主总是先手的逻辑。
         - [DOING] 测试地主总是先手的逻辑。
     - [TO-DO] 添加地主没有先手惩罚的选项。
+
+# 2024/10/13
+
+- [DONE] 添加人数不均情况下的地主增益选项。
+    - 结果: 人数不均情况下可以选择地主总是先手、地主无先手惩罚等选项。
+    - 演示视频: https://www.bilibili.com/video/BV1rV23YdENg
+- [DONE] BUG修复
+    - 描述: 2v2情况下猎人死后她施加的毒就无效了
+    - Commit: https://github.com/shulingWarm/PVP-in-the-spire/commit/893568d1f7507e0db63aeb8d20834d93a00fd558
+- [DOING] BUG修复
+    - 描述: 2v2情况下死亡的玩家有时会无法正常结束战斗
