@@ -7,3 +7,7 @@
 - [DONE] 解决失败的一方先死的无法结束战斗。
 	- 背景: 这是一个可以稳定复现的bug,2v2的情况下，败方先死的一个无法结束战斗，会卡在那里。
 	- Commit: https://github.com/shulingWarm/PVP-in-the-spire/commit/ce8cbe8af40afc6131223ba46b45ba3f58ed0d57
+- [DOING] 解决所有玩家都进入房间后无法开始战斗。
+	- 状态:
+		- [DOING] 在聊天框里面添加玩家所在楼层的状态信息，用于debug
+		- [TO-DO] 添加一个命令，用于强制进入战斗
