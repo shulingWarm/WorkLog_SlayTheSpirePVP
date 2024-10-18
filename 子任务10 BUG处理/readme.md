@@ -9,7 +9,8 @@
 	- Commit: https://github.com/shulingWarm/PVP-in-the-spire/commit/ce8cbe8af40afc6131223ba46b45ba3f58ed0d57
 - [DONE] 在聊天框里面添加玩家所在楼层的状态信息，用于debug。
 	- 背景: 由于玩家反馈所有玩家进入房间后无法开始战斗，添加这一条信息用于收集玩家的状态。
-- [DOING] 修改一些卡牌的英文描述。
+- [DONE] 修改一些遗物的英文描述。
 	- Stage:
-		- [DOING] 由于燃烧之血的词条描述是用patch更改的，因此需要将它重新修改成语言包的形式。
+		- [DONE] 由于燃烧之血的词条描述是用patch更改的，因此需要将它重新修改成语言包的形式。
+		- [DONE] 修改其他遗物的英文描述。
 - [TO-DO] 添加一个config选项用于指定是否允许使用控制台。
