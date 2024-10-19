@@ -13,4 +13,6 @@
 	- Stage:
 		- [DONE] 由于燃烧之血的词条描述是用patch更改的，因此需要将它重新修改成语言包的形式。
 		- [DONE] 修改其他遗物的英文描述。
-- [TO-DO] 添加一个config选项用于指定是否允许使用控制台。
+- [DOING] 添加一个config选项用于指定是否允许使用控制台。
+	- Stage:
+		- [DOING] 添加了用于实现ConsoleOption的选项。
