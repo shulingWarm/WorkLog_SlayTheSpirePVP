@@ -66,3 +66,10 @@
     - Commit: https://github.com/shulingWarm/PVP-in-the-spire/commit/893568d1f7507e0db63aeb8d20834d93a00fd558
 - [DOING] BUG修复
     - 描述: 2v2情况下死亡的玩家有时会无法正常结束战斗
+
+# 2024/10/20
+- [DONE] 解决2v2情况下玩家死亡后无法结束战斗
+    - Commit: https://github.com/shulingWarm/PVP-in-the-spire/commit/ce8cbe8af40afc6131223ba46b45ba3f58ed0d57
+- [DONE] 在聊天框添加玩家进入战斗房间的信息，主要是用于debug。
+- [DONE] 根据Ruben和Luc提供的文档，修改了部分遗物的英文描述。
+- [DOING] 添加config选项用于指定是否开启控制台。
