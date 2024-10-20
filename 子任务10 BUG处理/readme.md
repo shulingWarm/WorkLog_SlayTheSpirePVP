@@ -15,4 +15,5 @@
 		- [DONE] 修改其他遗物的英文描述。
 - [DOING] 添加一个config选项用于指定是否允许使用控制台。
 	- Stage:
-		- [DOING] 添加了用于实现ConsoleOption的选项。
+		- [DONE] 添加了用于实现ConsoleOption的选项。
+		- [DOING] 测试添加控制台的选项。
