@@ -13,7 +13,9 @@
 	- Stage:
 		- [DONE] 由于燃烧之血的词条描述是用patch更改的，因此需要将它重新修改成语言包的形式。
 		- [DONE] 修改其他遗物的英文描述。
-- [DOING] 添加一个config选项用于指定是否允许使用控制台。
+- [DONE] 添加一个config选项用于指定是否允许使用控制台。
 	- Stage:
 		- [DONE] 添加了用于实现ConsoleOption的选项。
-		- [DOING] 测试添加控制台的选项。
+		- [DONE] 测试添加控制台的选项。
+	- Commit: https://github.com/shulingWarm/PVP-in-the-spire/commit/62bc2b5f319ec523a747ccabfef5e7ae230c8dbe
+- [TO-DO] 解决1v1被毒死时无法正常结束游戏的bug.
