@@ -18,4 +18,5 @@
 		- [DONE] 添加了用于实现ConsoleOption的选项。
 		- [DONE] 测试添加控制台的选项。
 	- Commit: https://github.com/shulingWarm/PVP-in-the-spire/commit/62bc2b5f319ec523a747ccabfef5e7ae230c8dbe
-- [TO-DO] 解决1v1被毒死时无法正常结束游戏的bug.
+- [DOING] 解决1v1被毒死时无法正常结束游戏的bug.
+	- [DOING] 试图复现被毒死时无法结束回合的bug，但没有复现出来。
