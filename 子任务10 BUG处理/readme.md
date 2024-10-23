@@ -18,5 +18,10 @@
 		- [DONE] 添加了用于实现ConsoleOption的选项。
 		- [DONE] 测试添加控制台的选项。
 	- Commit: https://github.com/shulingWarm/PVP-in-the-spire/commit/62bc2b5f319ec523a747ccabfef5e7ae230c8dbe
-- [DOING] 解决1v1被毒死时无法正常结束游戏的bug.
+- [GIVE-UP] 解决1v1被毒死时无法正常结束游戏的bug.
 	- [DOING] 试图复现被毒死时无法结束回合的bug，但没有复现出来。
+	- 放弃原因: 目前无法复现这个bug.
+- [DONE] 合并测试新的pom.xml管理方案。
+	- 背景: Luc重写了pom.xml,现在pom.xml更规范了。
+	- 结果: 测试之后，使用新的pom.xml仍然可以正常构建工程。
+- [TO-DO] 测试坚不可摧打满的情况下使用审判击杀会卡死。
