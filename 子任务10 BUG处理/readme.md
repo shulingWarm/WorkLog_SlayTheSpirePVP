@@ -24,4 +24,7 @@
 - [DONE] 合并测试新的pom.xml管理方案。
 	- 背景: Luc重写了pom.xml,现在pom.xml更规范了。
 	- 结果: 测试之后，使用新的pom.xml仍然可以正常构建工程。
-- [TO-DO] 测试坚不可摧打满的情况下使用审判击杀会卡死。
+- [GIVE-UP] 测试坚不可摧打满的情况下使用审判击杀会卡死。
+	- 放弃原因: 没能复现出这个bug.
+- [DONE] 移除正常的添水和狗圈。
+	- Commit: https://github.com/shulingWarm/PVP-in-the-spire/commit/4a02fa676d0ab65bee6a40e1ba9954dce4a06ea5
