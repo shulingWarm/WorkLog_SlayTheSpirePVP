@@ -28,3 +28,4 @@
 	- 放弃原因: 没能复现出这个bug.
 - [DONE] 移除正常的添水和狗圈。
 	- Commit: https://github.com/shulingWarm/PVP-in-the-spire/commit/4a02fa676d0ab65bee6a40e1ba9954dce4a06ea5
+- [DONE] 解决灵体外质在反伤和失去生命的情况下也会触发的bug.
