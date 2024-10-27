@@ -30,3 +30,4 @@
 	- Commit: https://github.com/shulingWarm/PVP-in-the-spire/commit/4a02fa676d0ab65bee6a40e1ba9954dce4a06ea5
 - [DONE] 解决灵体外质在反伤和失去生命的情况下也会触发的bug.
 - [DONE] 解决第二场战斗中，后手百年积木不生效的问题。
+- [DOING] 战斗中，当有玩家中途离开时，弹出有玩家离开的提示。
