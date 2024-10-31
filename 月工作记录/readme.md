@@ -13,3 +13,16 @@
     - 演示视频: https://www.bilibili.com/video/BV1Lzxge7EfG
 - [DONE] 部分BOSS遗物效果的修改，重新实现了狗圈、添水和绿帽。
 - [DOING] 添加地主增益选项。
+
+# 10月
+- [DONE] 添加地主增益选项
+    - 演示视频: https://www.bilibili.com/video/BV1rV23YdENg
+- [DOING] BUG集中修复
+    - 背景: 由于Ruben和Luc总结了bug记录的文档，因此需要集中处理这些bug.
+    - [DONE] 猎人死亡后毒不触发。
+    - [DONE] 解决2v2时，失败队伍中先死的玩家无法正常结束战斗，会被卡住。
+    - [DONE] 移除了游戏中普通的绿帽和狗圈。
+    - [DONE] 修复[灵体外质]的bug,确保只有Normal类型的伤害才会被偷钱
+    - [DONE] 修复[百年积木]的bug,有时第二场战斗它不触发。
+    - [DONE] 当有玩家在游戏中退出时，弹出结束游戏的按钮。
+    - [DOING] Steam远程联机时，地主增益选项无法同步给新进入房间的玩家。
