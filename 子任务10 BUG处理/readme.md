@@ -37,9 +37,10 @@
 		- [DONE] 当有玩家在游戏中离开时，同时在聊天界面添加一条提示。
 - [DONE] BOSS遗物三选一界面显示得还是未改版过的遗物，但拿到手里的是改版过的。
 	- Commit: https://github.com/shulingWarm/PVP-in-the-spire/commit/c0aad8e9815418cf197d4c2cd7102fadb74a72ca
+- [DONE] 玩家的第一回合意图固定为未知，这是BUG.
+	- Commit: https://github.com/shulingWarm/PVP-in-the-spire/commit/c3d02332ff353ff5685a6037eaa6543e842dfafa
 - [DOING] 解决后进入的玩家无法同步房间设置的bug.
 	- 背景: 在Steam远程联机时，如果玩家提前在房间做了设置，后面进入的玩家可能无法同步设置。
 	- [DONE] 玩家进入房间时，Toggle选项无法同步。
 	- [TO-DO] 当玩家离开房间再次进入时，房主的位置会显示错误，房主会和新进来的玩家显示在同一边。
-- [TO-DO] 玩家的第一回合意图固定为未知，这是BUG.
 - [TO-DO] 在游戏里面添加房主图标。
