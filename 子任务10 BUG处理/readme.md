@@ -39,11 +39,12 @@
 	- Commit: https://github.com/shulingWarm/PVP-in-the-spire/commit/c0aad8e9815418cf197d4c2cd7102fadb74a72ca
 - [DONE] 玩家的第一回合意图固定为未知，这是BUG.
 	- Commit: https://github.com/shulingWarm/PVP-in-the-spire/commit/c3d02332ff353ff5685a6037eaa6543e842dfafa
-- [DOING] 解决后进入的玩家无法同步房间设置的bug.
+- [DONE] 解决后进入的玩家无法同步房间设置的bug.
 	- 背景: 在Steam远程联机时，如果玩家提前在房间做了设置，后面进入的玩家可能无法同步设置。
 	- [DONE] 玩家进入房间时，Toggle选项无法同步。
-	- [DOING] 当玩家离开房间再次进入时，房主的位置会显示错误，房主会和新进来的玩家显示在同一边。
+	- [DONE] 当玩家离开房间再次进入时，房主的位置会显示错误，房主会和新进来的玩家显示在同一边。
 		- 状态:
 			- 发现玩家离开房间再进来后，两个team的isLeft字段都变成了true
 			- 准备测试当玩家离开房间后，强行重置team的layout能否解决bug.
+	- 结果: 目前玩家离开房间后再进来已经不会出现玩家位置显示错误的bug.
 - [TO-DO] 在游戏里面添加房主图标。
