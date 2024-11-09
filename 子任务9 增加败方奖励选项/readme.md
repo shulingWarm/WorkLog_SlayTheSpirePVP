@@ -7,6 +7,9 @@
 	- 状态:
 		- [DONE] 测试发现，在玩家逃跑时把currRoom里面的smoke选项设置成false就可以正常获得所有奖励。
 		- [DONE] 在不把smoke设置成true的情况下，跳过setupItemReward即可跳过获得奖励的过程。
-		- [TO-DO] 测试在setupItemReward里面能不能添加自定义的奖励项目。
-- [TO-DO] 在config页面添加败方获得金币的功能。
+		- [DONE] 测试在setupItemReward里面能不能添加自定义的奖励项目。
+	- 结果: 可以直接覆盖setupItemReward来指定败方的奖励。
+- [DOING] 在config页面添加败方获得金币的功能。
+	- 状态:
+		- [DOING] 在语言包里面添加败方奖励选项的相关文本。
 - [TO-DO] 添加败方获得金卡的功能。
