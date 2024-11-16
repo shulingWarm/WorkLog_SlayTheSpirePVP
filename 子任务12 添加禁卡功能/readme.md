@@ -7,4 +7,5 @@
 - [DOING] 实现可自由修改的浏览卡牌页面，后面会基于这个页面做禁牌功能。
 	- 状态:
 		- [DONE] 找到了用于显示卡牌库的类。
-		- [DOING] 将卡牌库放到一个PVP的标准AbstractPage里面。
+		- [DONE] 将卡牌库放到一个PVP的标准AbstractPage里面。
+		- [DOING] 在测试页面添加AbstractPage测试时，open的时候遇到了空指针错误。
