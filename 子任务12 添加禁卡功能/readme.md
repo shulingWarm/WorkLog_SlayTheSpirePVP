@@ -11,4 +11,6 @@
 		- [DONE] 在测试页面添加AbstractPage测试时，open的时候遇到了空指针错误。
 			- CardLibraryScreen里面有basemod的patch,因此需要先把它独立出来。
 		- [DONE] 将原版游戏中的CardLibraryScreen解耦出来变成一个完全独立的类。
-		- [DOING] 由于游戏里面上下文关系，构造CardLibrary的时候需要在特定的位置，所以需要和原版的游戏保持一致。
+		- [DONE] 由于游戏里面上下文关系，构造CardLibrary的时候需要在特定的位置，所以需要和原版的游戏保持一致。
+		- [DOING] 将构造CardFilterScreen的位置放在和PlayerManager一致的地方。
+			- 背景: 发现构造位置和原版位置保持一致时会导致进入游戏时报错，这很可能是语言包加载导致的。
