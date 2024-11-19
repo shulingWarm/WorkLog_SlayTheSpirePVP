@@ -12,5 +12,8 @@
 			- CardLibraryScreen里面有basemod的patch,因此需要先把它独立出来。
 		- [DONE] 将原版游戏中的CardLibraryScreen解耦出来变成一个完全独立的类。
 		- [DONE] 由于游戏里面上下文关系，构造CardLibrary的时候需要在特定的位置，所以需要和原版的游戏保持一致。
-		- [DOING] 将构造CardFilterScreen的位置放在和PlayerManager一致的地方。
+		- [DONE] 将构造CardFilterScreen的位置放在和PlayerManager一致的地方。
 			- 背景: 发现构造位置和原版位置保持一致时会导致进入游戏时报错，这很可能是语言包加载导致的。
+			- 结果: 保持构造卡牌的位置一致仍然无法解决问题。
+		- [DONE] 删除卡牌页面的语言包加载，改为写死的文本后，可以正常进入游戏了。
+		- [DOING] 进入Config页面时仍然会出现闪退，需要另外解决这个问题。
