@@ -34,5 +34,6 @@
 	- 状态:
 		- [DONE] 研究往游戏里面加入卡牌的各种入口，最后根据调查结果统一设置一种接口来控制这些卡牌。
 			- 所有的卡牌都是在AbstractDungeon里面的initializeCardPool的位置初始化的。
+		- [DONE] 实现了卡牌filter的管理器，用于管理哪些卡牌已经被禁用掉了。
 		- [TO-DO] 在initializeCardPool的位置添加后处理patch移除被禁用掉的卡牌。
 - [TO-DO] 将禁卡页面的用户操作链接到禁卡表中。
