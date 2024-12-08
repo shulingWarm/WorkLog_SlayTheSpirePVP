@@ -110,3 +110,8 @@
     - [DONE] 实现真正意义上的卡牌禁用，被禁止的牌不会出现在游戏里。
     - [DONE] 实现UI点击操作和游戏里面实际禁用情况的交互。
     - [DOING] 实现卡牌禁用效果的通信。
+
+# 2024/12/8
+- [DONE] 实现pvp的卡牌禁用功能。
+    - Commit: https://github.com/shulingWarm/PVP-in-the-spire/commit/55bc194c919ca98d24cbd043041d94449ad558f8
+- [TO-DO] 当玩家修改卡牌禁用状态时，实时显示当前卡牌的开启数和禁用数。
