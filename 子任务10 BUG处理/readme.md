@@ -47,4 +47,7 @@
 			- 发现玩家离开房间再进来后，两个team的isLeft字段都变成了true
 			- 准备测试当玩家离开房间后，强行重置team的layout能否解决bug.
 	- 结果: 目前玩家离开房间后再进来已经不会出现玩家位置显示错误的bug.
+- [DONE] 修复[过河拆桥]升级时游戏闪退的问题。
+	- 背景: 这主要是合并了Luc的修改后出现的问题。
+	- Commit: https://github.com/shulingWarm/PVP-in-the-spire/commit/e87caebd1874a66e7ad15a01af5e14ae81fe778c
 - [TO-DO] 在游戏里面添加房主图标。
