@@ -50,4 +50,7 @@
 - [DONE] 修复[过河拆桥]升级时游戏闪退的问题。
 	- 背景: 这主要是合并了Luc的修改后出现的问题。
 	- Commit: https://github.com/shulingWarm/PVP-in-the-spire/commit/e87caebd1874a66e7ad15a01af5e14ae81fe778c
+- [DONE] 解决配置页面里面多一个卡池选项的问题。
+- [TO-DO] 解决黑球激发数值不同步的问题。
+- [TO-DO] 解决没有白兽雕像的情况下也会获得三瓶药水的bug.
 - [TO-DO] 在游戏里面添加房主图标。
