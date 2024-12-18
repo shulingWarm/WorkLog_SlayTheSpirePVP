@@ -67,5 +67,5 @@
 		- [DONE] 复现发现这个BUG会稳定发生。
 		- [DONE] 定位到代码里面：sendDarkEndTurn这个函数没有正常生效。
 		- [DONE] Debug发现黑球的更新信息是从MonsterDark发出的，但实际上应该从PlayerDark发出。MonsterDark应该是一个纯粹的信息接收者。
-		- [TO-DO] 直接固定在Monster调用EndTurn的时候更新这些信息，后续不再用Map做维护。
+		- [DOING] 建立一个专门为黑球服务的事件，用于更新一个orb的evokeAmount。
 - [TO-DO] 在游戏里面添加房主图标。
