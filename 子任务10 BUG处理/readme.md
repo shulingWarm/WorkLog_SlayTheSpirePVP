@@ -62,10 +62,11 @@
 	- 结果: 当时实现败者获得白兽雕像效果的时候，没有加if判断。
 - [DONE] 解决连续进行第二局游戏时禁卡效果失效的问题。
 	- 结果: 回到大厅主界面的时候会重新构造CardFilter的实体导致了这个问题。
-- [DOING] 解决黑球激发数值不同步的问题。
+- [DONE] 解决黑球激发数值不同步的问题。
 	- 状态:
 		- [DONE] 复现发现这个BUG会稳定发生。
 		- [DONE] 定位到代码里面：sendDarkEndTurn这个函数没有正常生效。
 		- [DONE] Debug发现黑球的更新信息是从MonsterDark发出的，但实际上应该从PlayerDark发出。MonsterDark应该是一个纯粹的信息接收者。
-		- [DOING] 建立一个专门为黑球服务的事件，用于更新一个orb的evokeAmount。
+		- [DONE] 建立一个专门为黑球服务的事件，用于更新一个orb的evokeAmount。
+	- Commit: https://github.com/shulingWarm/PVP-in-the-spire/commit/af3d731e9ed0153b03b67809ba05aa1411b43fd6
 - [TO-DO] 在游戏里面添加房主图标。
