@@ -14,5 +14,6 @@
 		- [DONE] 实现了响应取消按钮的逻辑。
 	- 结果:
 		- 目前已经完成ConfigName界面的基本UI，可以开始正式实现里面的逻辑了。
-- [TO-DO] 把ConfigName界面的打开逻辑添加到Config界面里面。
+- [DONE] 把ConfigName界面的打开逻辑添加到Config界面里面。
+	- 结果: 点击ConfigName按钮时会出现输入Config名字的界面。
 - [TO-DO] 实现按钮的响应接口，把当前配置保存到文件中。
