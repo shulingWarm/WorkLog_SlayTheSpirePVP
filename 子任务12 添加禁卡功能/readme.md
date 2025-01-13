@@ -53,4 +53,9 @@
 - [DONE] 添加卡牌禁用界面中返回按钮的文本。
 - [DONE] 当新玩家刚刚进入房间时，同步目前房间里面的禁用状态。
 - [DONE] 子任务1 添加配置信息的保存和加载功能
-- [TO-DO] 录视频说明最新的卡牌禁用功能。
+- [DONE] 录视频说明最新的卡牌禁用功能。
+	- 视频演示: https://www.bilibili.com/video/BV1FRc1eoEby
+
+# 结果
+- 目前已经可以做到禁卡效果了。
+- 视频演示: https://www.bilibili.com/video/BV1FRc1eoEby
