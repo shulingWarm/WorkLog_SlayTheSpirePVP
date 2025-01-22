@@ -6,7 +6,9 @@
 - [DOING] 在单卡配置界面添加放在panel里面的多个可点击的输入框。
 	- 状态:
 		- [DONE] 在panel里面单独添加多个input box,输入框显示正常。
-		- [TO-DO] 解决panel里面多个输入框显示位置异常的问题(纵向间距过大)。
+		- [DONE] 解决panel里面多个输入框显示位置异常的问题(纵向间距过大)。
+		- [DOING] 解决panel里面输入框宽度过大的问题。
 		- [TO-DO] 处理点击输入框后无法正常使用滚动条的问题。
+- [TO-DO] 定义所有用于修改卡牌的抽象Option.
 - [TO-DO] 在单卡配置界面添加修改卡牌伤害值和MagicNumber的输入框。
 - [TO-DO] 实现option list里面多个输入框获取输入focus的功能。
