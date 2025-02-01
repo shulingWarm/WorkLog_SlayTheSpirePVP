@@ -18,6 +18,7 @@
 - [DONE] 实现用于扩展DIY卡牌的卡牌Action.
 - [DONE] 实现专门用于DIY的可修改卡牌。
 - [DONE] 将之前实现过的接口里面传入传出的卡牌类型改成新的AdaptableCard.
-- [DOING] 实现专用于伤害值修改的卡牌修改实例。
+- [DONE] 实现专用于伤害值修改的卡牌修改实例。
+- [DOING] 给卡牌action添加id,以防止相同的action被重复加入。
 - [TO-DO] 在单卡配置界面添加修改卡牌伤害值和MagicNumber的输入框。
 - [TO-DO] 实现option list里面多个输入框获取输入focus的功能。
