@@ -3,5 +3,8 @@
 
 # 工作记录
 - [DONE] 复制TabBar的类，方便做自定义实现。
-- [DOING] 重新实现TabBar Item，方便做后续扩展。
+- [DONE] 重新实现TabBar Item，方便做后续扩展。
+	- 结果: 基于TabBar item实现了翻页操作，卡包和基础卡牌都可以基于此扩展。
+- [TO-DO] 添加在Color Bar里面注册卡包选项的功能。
+- [TO-DO] 实现点击Color Bar时在卡牌库界面切换卡组内容。
 - [TO-DO] 在打开卡牌浏览界面时，加载所有卡包。
