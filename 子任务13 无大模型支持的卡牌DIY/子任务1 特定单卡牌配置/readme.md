@@ -31,7 +31,7 @@
 - [DONE] 子任务2 实现在卡牌浏览页面显示自定义的卡牌。
 - [DONE] 实现卡牌格挡Action，使用时调用卡牌格挡。
 - [DONE] 解析卡牌格挡值，给卡牌添加格挡Action。
-- [DOING] 实现卡牌格挡的修改Item。
+- [DONE] 实现卡牌格挡的修改Item。
 - [TO-DO] 实现卡牌MagicNumber的修改。
 - [TO-DO] 实现用于添加各种能量的Action。
 - [TO-DO] 实现修改卡牌名字的UI。
