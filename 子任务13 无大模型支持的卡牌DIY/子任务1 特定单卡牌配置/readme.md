@@ -32,6 +32,9 @@
 - [DONE] 实现卡牌格挡Action，使用时调用卡牌格挡。
 - [DONE] 解析卡牌格挡值，给卡牌添加格挡Action。
 - [DONE] 实现卡牌格挡的修改Item。
-- [TO-DO] 实现卡牌MagicNumber的修改。
+- [DOING] 实现卡牌MagicNumber的修改。
+	- 工作状态:
+		- [DONE] 实现了修改MagicNumber所需的CardAction。
+		- [TO-DO] 把CardAction集成进ModifyItem。
 - [TO-DO] 实现用于添加各种能量的Action。
 - [TO-DO] 实现修改卡牌名字的UI。
