@@ -35,6 +35,7 @@
 - [DOING] 实现卡牌MagicNumber的修改。
 	- 工作状态:
 		- [DONE] 实现了修改MagicNumber所需的CardAction。
-		- [TO-DO] 把CardAction集成进ModifyItem。
+		- [DONE] 把CardAction集成进ModifyItem。
+		- [TO-DO] 把ModifyItem放进Config界面。
 - [TO-DO] 实现用于添加各种能量的Action。
 - [TO-DO] 实现修改卡牌名字的UI。
