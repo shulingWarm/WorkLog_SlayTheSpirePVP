@@ -37,6 +37,8 @@
 		- [DONE] 实现了修改MagicNumber所需的CardAction。
 		- [DONE] 把CardAction集成进ModifyItem。
 		- [DONE] 把ModifyItem放进Config界面。
+- [DOING] 通过反射机制解析Java中所有AbstractPower的子类。
+- [TO-DO] 对于解析出来的子类，生成一个静态的Java代码用于表示所有的能量子类。
 - [TO-DO] 添加一个子页面用于给卡牌添加各种能量。
 - [TO-DO] 实现用于添加各种能量的Action。
 - [TO-DO] 实现修改卡牌名字的UI。
