@@ -37,7 +37,9 @@
 		- [DONE] 实现了修改MagicNumber所需的CardAction。
 		- [DONE] 把CardAction集成进ModifyItem。
 		- [DONE] 把ModifyItem放进Config界面。
-- [TO-DO] 添加一个子页面用于给卡牌添加各种能量。
+- [DOING] 添加一个子页面用于给卡牌添加各种能量。
+	- 工作状态:
+		- [DOING] 添加用于显示单个能量信息的选项条。
 - [TO-DO] 用目前的PowerMapping在添加能量的页面中列出所有的能量。
 - [TO-DO] 实现用于添加各种能量的Action。
 - [TO-DO] 实现修改卡牌名字的UI。
