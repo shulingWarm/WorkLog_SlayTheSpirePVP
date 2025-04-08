@@ -3,5 +3,6 @@
 
 # 工作过程
 - [DONE] 添加了用于显示能量Item的Panel。
-- [DOING] 在Panel里面添加所有能检索到的能量。
-- [TO-DO] 在CardConfig页面里面添加指向能量配置页面的按钮。
+- [DONE] 在Panel里面添加所有能检索到的能量。
+- [DONE] 在CardConfig页面里面添加指向能量配置页面的按钮。
+- [DOING] 解决打开配置能量页面按钮时的空指针报错。
